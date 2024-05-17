@@ -1,9 +1,9 @@
 
 # 📱 Mon Application de Surveillance des Capteurs Android
 
-Une application Android simple pour surveiller et afficher les données des capteurs intégrés tels que le gyroscope, l'accéléromètre et la température ambiante. Cette application utilise les fonctionnalités des capteurs disponibles sur les périphériques Android pour fournir une vue en temps réel des lectures des capteurs, offrant ainsi une démonstration claire de l'utilisation des capteurs dans les applications mobiles. 🌟
+Une application Android simple pour surveiller et afficher les données des capteurs intégrés tels que le gyroscope, l'accéléromètre, la température ambiante et GPS. Cette application utilise les fonctionnalités des capteurs disponibles sur les périphériques Android pour fournir une vue en temps réel des lectures des capteurs, offrant ainsi une démonstration claire de l'utilisation des capteurs dans les applications mobiles. 🌟
 
-![WhatsApp Image 2024-05-17 à 09 34 58_687decbc](https://github.com/ouarriorxx/AndroidSensorApp/assets/143946046/484eca61-9aa9-4d41-b3a3-8fff1835660e)
+![WhatsApp Image 2024-05-17 à 10 19 17_5f8c11a8](https://github.com/ouarriorxx/AndroidSensorApp/assets/143946046/64417972-7b2d-4f12-8fa4-ebb848972646)
 
 
 ## Installation et Configuration
