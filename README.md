@@ -7,13 +7,13 @@ Une application Android simple pour surveiller et afficher les données des capt
 
 Pour installer cette application sur votre périphérique Android à l'aide d'Android Studio, suivez ces étapes simples :
 
-Clonez ou téléchargez ce dépôt sur votre machine locale.
-Ouvrez Android Studio et sélectionnez "Ouvrir un projet existant".
-Naviguez jusqu'à l'emplacement où vous avez enregistré le dépôt cloné et ouvrez-le.
-Attendez que Android Studio indexe et synchronise le projet avec les fichiers Gradle.
-Connectez votre appareil Android à votre ordinateur via USB et assurez-vous que le mode de débogage USB est activé sur votre appareil.
-Dans Android Studio, sélectionnez votre appareil dans la liste des périphériques disponibles.
-Cliquez sur le bouton "Exécuter" (icône de triangle vert) pour compiler et installer l'application sur votre appareil Android.
+*Clonez ou téléchargez ce dépôt sur votre machine locale.
+*Ouvrez Android Studio et sélectionnez "Ouvrir un projet existant".
+*Naviguez jusqu'à l'emplacement où vous avez enregistré le dépôt cloné et ouvrez-le.
+*Attendez que Android Studio indexe et synchronise le projet avec les fichiers Gradle.
+*Connectez votre appareil Android à votre ordinateur via USB et assurez-vous que le mode de débogage USB est activé sur votre appareil.
+*Dans Android Studio, sélectionnez votre appareil dans la liste des périphériques disponibles.
+*Cliquez sur le bouton "Exécuter" (icône de triangle vert) pour compiler et installer l'application sur votre appareil Android.
 
 ## Utilisation
 
