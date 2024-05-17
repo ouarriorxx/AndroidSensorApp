@@ -5,21 +5,24 @@ Une application Android simple pour surveiller et afficher les données des capt
 
 ## Installation et Configuration
 
-Pour installer cette application sur votre périphérique Android, suivez ces étapes simples :
+Pour installer cette application sur votre périphérique Android à l'aide d'Android Studio, suivez ces étapes simples :
 
-1. Téléchargez le fichier APK à partir du lien fourni dans la section "Release" de ce dépôt.
-2. Sur votre appareil Android, accédez à Paramètres > Sécurité.
-3. Activez l'option "Sources inconnues" pour autoriser l'installation d'applications à partir de sources autres que le Google Play Store.
-4. Ouvrez le fichier APK téléchargé et suivez les instructions à l'écran pour terminer l'installation.
+Clonez ou téléchargez ce dépôt sur votre machine locale.
+Ouvrez Android Studio et sélectionnez "Ouvrir un projet existant".
+Naviguez jusqu'à l'emplacement où vous avez enregistré le dépôt cloné et ouvrez-le.
+Attendez que Android Studio indexe et synchronise le projet avec les fichiers Gradle.
+Connectez votre appareil Android à votre ordinateur via USB et assurez-vous que le mode de débogage USB est activé sur votre appareil.
+Dans Android Studio, sélectionnez votre appareil dans la liste des périphériques disponibles.
+Cliquez sur le bouton "Exécuter" (icône de triangle vert) pour compiler et installer l'application sur votre appareil Android.
 
 ## Utilisation
 
-Une fois l'application installée, suivez ces étapes pour l'utiliser :
+Une fois l'application installée sur votre appareil, suivez ces étapes pour l'utiliser :
 
-1. Lancez l'application depuis le menu de votre appareil.
-2. Sur l'écran principal, vous verrez une liste des capteurs disponibles.
-3. Sélectionnez le capteur que vous souhaitez surveiller.
-4. Les lectures du capteur sélectionné seront affichées en temps réel à l'écran.
+Lancez l'application depuis l'écran d'accueil de votre appareil.
+Sur l'écran principal, vous verrez une liste des capteurs disponibles.
+Sélectionnez le capteur que vous souhaitez surveiller.
+Les lectures du capteur sélectionné seront affichées en temps réel à l'écran.
 
 ## Fonctionnalités Clés
 
@@ -29,11 +32,7 @@ Une fois l'application installée, suivez ces étapes pour l'utiliser :
 
 ## Compatibilité
 
-Cette application est compatible avec les appareils Android exécutant la version 5.0 (Lollipop) ou ultérieure.
-
-## Contributions
-
-Les contributions à ce projet sont les bienvenues ! N'hésitez pas à soumettre des rapports de bogues, des suggestions d'amélioration ou des pull requests.
+Cette application est compatible avec les appareils Android.
 
 ## Remerciements
 
