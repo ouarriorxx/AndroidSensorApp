@@ -1,5 +1,5 @@
 
-# 📱 Mon Application de Surveillance des Capteurs Android
+# 📱 Mon Application de Surveillance des 6 Capteurs Android
 
 Une application Android simple pour surveiller et afficher les données des 6 capteurs intégrés tels que le gyroscope, l'accéléromètre, la température ambiante, GPS, luminosité, proximité, et champ magnétique. Cette application utilise les fonctionnalités des capteurs disponibles sur les périphériques Android pour fournir une vue en temps réel des lectures des capteurs, offrant ainsi une démonstration claire de l'utilisation des capteurs dans les applications mobiles. 🌟 
 
