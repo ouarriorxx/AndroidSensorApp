@@ -6,6 +6,7 @@ Une application Android simple pour surveiller et afficher les données des 6 ca
 ![WhatsApp Image 2024-05-17 à 10 19 17_5f8c11a8](https://github.com/ouarriorxx/AndroidSensorApp/assets/143946046/64417972-7b2d-4f12-8fa4-ebb848972646)
 
 
+
 ## Installation et Configuration
 
 Pour installer cette application sur votre périphérique Android à l'aide d'Android Studio, suivez ces étapes simples :
